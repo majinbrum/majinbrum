@@ -2,7 +2,7 @@
 	<samp>
 		<strong
 			>Hello world, I'm Bruna! 👋<br />
-			🐼 Software Developer • UX/UI Designer 🐼</strong
+			🐼 [Software Developer • UX/UI Designer] @<a href="https://github.com/infobiotech">Infobiotech</a> 🐼</strong
 		>
 		<br /><br />
 		💻
